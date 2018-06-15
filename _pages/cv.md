@@ -13,4 +13,4 @@ Education
 ======
 * B.S. in Computer Science and Technology, Jilin University, 2015
 * M.S. in Computer Technology, Jilin University, 2018
-* Ph.D in Computer Architecture, University of of Chinese Academy of Sciences, 2021 (expected)
+* Ph.D. in Computer Architecture, University of of Chinese Academy of Sciences, 2021 (expected)
