@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### This is Guangli Li's homepage!
 ------------
 
 ### Education
