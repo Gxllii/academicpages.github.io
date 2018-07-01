@@ -11,9 +11,11 @@ redirect_from:
 ------------
 
 ### Education
-:flags: B.S. in Computer Science and Technology, Jilin University, 2015
-:flags: M.Eng. in Computer Technology, Jilin University, 2018
-:flags: Ph.D. in Computer Architecture, University of of Chinese Academy of Sciences, 2021 (expected)
+:mortar_board: B.S. in Computer Science and Technology, Jilin University, 2015
+
+:mortar_board: M.Eng. in Computer Technology, Jilin University, 2018
+
+:mortar_board: Ph.D. in Computer Architecture, University of of Chinese Academy of Sciences, 2021 (expected)
 
 ------------
 ### Experience
