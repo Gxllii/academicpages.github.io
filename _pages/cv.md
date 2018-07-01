@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-##Education
+Education
 ======
 * B.S. in Computer Science and Technology, Jilin University, 2015
 * M.Eng. in Computer Technology, Jilin University, 2018
