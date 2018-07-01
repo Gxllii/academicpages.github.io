@@ -10,12 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ### Artificial Intelligence
+
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
 | C | ACCV 2018 | Perth, Australia | July 5 | http://accv2018.net/ |
 | A | AAAI 2019 | Hawaii, USA | Sept 5 | https://aaai.org/Conferences/AAAI-19/ |
 
 ### System
+
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
 | C | NPC 2018 | Muroran, Hokkaido | July 15 | http://pacman.cs.tsinghua.edu.cn/npc2018/ |
