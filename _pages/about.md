@@ -38,7 +38,7 @@ I am starting in September 2018 as ph.D. candidate in Institute of Computing Tec
   CARCH, Institute of Computing Technology, Chinese Academy of Sciences
 
 ------------
-## Research
+## Researches
 
 ### Projects
 
@@ -48,7 +48,7 @@ I am starting in September 2018 as ph.D. candidate in Institute of Computing Tec
 ## Services
 
 ------------
-## Award
+## Awards
 
 ------------
 ## Contact
