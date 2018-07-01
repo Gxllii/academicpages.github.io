@@ -25,4 +25,6 @@ redirect_from:
 | C | IPCCC 2018 | Orlando, Florida, USA | July 27, 2018 | <http://www.ipccc.org/> |
 | A | HPCA 2019 | Washington DC, USA| August 3, 2018 | <http://hpca2019.seas.gwu.edu/> |
 | A | PPoPP 2019 | Washington DC, USA| August 20, 2018 | <https://ppopp19.sigplan.org/home> |
+| C | ISPA 2018 | Melbourne, Australia | August 31, 2018 | <http://www.swinflow.org/confs/2018/ispa/ > |
 | B | CGO 2019 | Washington DC, USA | September 7, 2018 | <http://cgo.org/cgo2019/> |
+| B | DCC 2019 | Snowbird, Utah, USA | November 1, 2018 | <http://www.cs.brandeis.edu/~dcc/> |
