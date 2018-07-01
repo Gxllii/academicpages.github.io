@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Call for papers"
+title: "Call For Papers"
 permalink: /CFP/
 author_profile: true
 redirect_from:
