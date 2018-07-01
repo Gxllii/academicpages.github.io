@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Conferences"
-    url: /CFP/
+#  - title: "Conferences"
+#    url: /CFP/
     
 #  - title: "Guide"
 #    url: /markdown/
