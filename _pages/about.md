@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am starting in September 2018 as ph.D. candidate in Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include Deep Learning, Computer Vision and High Performance Computing.
+
 ------------
 
 ### Education
