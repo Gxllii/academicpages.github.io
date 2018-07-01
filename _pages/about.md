@@ -10,17 +10,18 @@ redirect_from:
 
 I am starting in September 2018 as ph.D. candidate in Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include Deep Learning, Computer Vision and High Performance Computing.
 
-------------
 ## News
-
 ------------
+
 ## Education
+------------
 * B.S. in Computer Science and Technology, Jilin University, 2015
 * M.Eng. in Computer Technology, Jilin University, 2018
 * Ph.D. in Computer Architecture, University of of Chinese Academy of Sciences, 2021 (expected)
 
-------------
+
 ## Experience
+------------
 - Research Assistant, *Aug, 2016* - *Present* 
 
   CARCH, Institute of Computing Technology, Chinese Academy of Sciences
@@ -37,18 +38,19 @@ I am starting in September 2018 as ph.D. candidate in Institute of Computing Tec
 
   CARCH, Institute of Computing Technology, Chinese Academy of Sciences
 
-------------
+
 ## Researches
+------------
 
 ### Projects
 
 ### Publications
 
-------------
 ## Services
-
 ------------
+
 ## Awards
-
 ------------
+
 ## Contact
+------------
