@@ -14,10 +14,12 @@ I am starting in September 2018 as ph.D. candidate in Institute of Computing Tec
 
 
 ## Education
-* B.S. in Computer Science and Technology, Jilin University, 2011-2015
-* M.Eng. in Computer Technology, Jilin University, 2015-2018
-* Ph.D. in Computer Architecture, University of of Chinese Academy of Sciences, 2018-2021 (expected)
-
+* B.S. in Computer Science and Technology, 2011-2015  
+  College of Computer Science and Technology, Jilin University
+* M.Eng. in Computer Technology, 2015-2018  
+  College of Computer Science and Technology, Jilin University
+* Ph.D. in Computer Architecture, 2018-2021 (expected)  
+  University of of Chinese Academy of Sciences
 
 ## Experience
 - Research Assistant, *Aug, 2016* - *Present*  
