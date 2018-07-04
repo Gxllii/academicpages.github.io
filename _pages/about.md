@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am starting in September 2018 as ph.D. candidate in Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include Deep Learning, Computer Vision and High Performance Computing.
+I am starting in September 2018 as ph.D. candidate in Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include Programming Systems, Computer Vision and Deep Learning.
 
 ## News
 
 
 ## Education
-* B.S. in Computer Science and Technology, Jilin University, 2015
-* M.Eng. in Computer Technology, Jilin University, 2018
-* Ph.D. in Computer Architecture, University of of Chinese Academy of Sciences, 2021 (expected)
+* B.S. in Computer Science and Technology, Jilin University, 2011-2015
+* M.Eng. in Computer Technology, Jilin University, 2015-2018
+* Ph.D. in Computer Architecture, University of of Chinese Academy of Sciences, 2018-2021 (expected)
 
 
 ## Experience
