@@ -13,7 +13,6 @@ redirect_from:
 
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
-| C | ACCV 2018 | Perth, Australia | July 5, 2018 | <http://accv2018.net/> |
 | A | AAAI 2019 | Hawaii, USA | September 5, 2018 | <https://aaai.org/Conferences/AAAI-19/> |
 
 
