@@ -14,13 +14,13 @@ I am starting in September 2018 as ph.D. candidate in State Key Laboratory of Co
 
 
 ## Education
-* B.S. in Computer Science and Technology, 2011-2015
-  College of Computer Science and Technology, Jilin University
-* M.Eng. in Computer Technology, 2015-2018
-  Supervisor: [Prof. Lei Liu][1] and [Associate Prof. Shuai Lv][2]
-  College of Computer Science and Technology, Jilin University
+* B.S. in Computer Science and Technology, 2011-2015  
+  College of Computer Science and Technology, Jilin University  
+* M.Eng. in Computer Technology, 2015-2018  
+  Supervisor: [Prof. Lei Liu][1] and [Associate Prof. Shuai Lv][2]  
+  College of Computer Science and Technology, Jilin University  
 * Ph.D. in Computer Architecture, 2018-2021 (expected)  
-  Supervisor: [Prof. Xiaobing Feng][3] and Dr. Lei Liu
+  Supervisor: [Prof. Xiaobing Feng][3] and Dr. Lei Liu  
   University of of Chinese Academy of Sciences
 
 ## Experience
