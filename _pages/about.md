@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am starting in September 2018 as ph.D. candidate in State Key Laboratory of Computer Architecture, Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include Programming Systems and Deep Learning.
+I am starting in September 2018 as ph.D. candidate in State Key Laboratory of Computer Architecture, [Institute of Computing Technology of the Chinese Academy of Sciences][4]. My research interests include Programming Systems and Deep Learning.
 
 ## News
-
 
 ## Education
 * B.S. in Computer Science and Technology, 2011-2015  
@@ -56,3 +55,5 @@ I am starting in September 2018 as ph.D. candidate in State Key Laboratory of Co
   [1]:http://ccst.jlu.edu.cn/info/1026/2144.htm
   [2]:http://ccst.jlu.edu.cn/info/1028/2176.htm
   [3]:http://people.ucas.ac.cn/~fengxiaobing
+  [4]:http://www.ict.ac.cn/
+  [5]:http://www.carch.ac.cn/
