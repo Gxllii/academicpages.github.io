@@ -14,11 +14,13 @@ I am starting in September 2018 as ph.D. candidate in Institute of Computing Tec
 
 
 ## Education
-* B.S. in Computer Science and Technology, 2011-2015  
+* B.S. in Computer Science and Technology, 2011-2015
   College of Computer Science and Technology, Jilin University
-* M.Eng. in Computer Technology, 2015-2018  
+* M.Eng. in Computer Technology, 2015-2018
+  Supervisor: [Prof. Lei Liu][1] and Associate Prof. Shuai Lv
   College of Computer Science and Technology, Jilin University
 * Ph.D. in Computer Architecture, 2018-2021 (expected)  
+  Supervisor: Prof. Xiaobing Feng and Dr. Lei Liu
   University of of Chinese Academy of Sciences
 
 ## Experience
@@ -42,3 +44,5 @@ I am starting in September 2018 as ph.D. candidate in Institute of Computing Tec
 ## Awards
 
 ## Contact
+
+  [1]:http://ccst.jlu.edu.cn/info/1026/2144.htm
