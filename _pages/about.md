@@ -25,13 +25,13 @@ I am starting in September 2018 as ph.D. candidate in State Key Laboratory of Co
 
 ## Experience
 - Research Assistant, *Aug, 2016* - *Present*  
-  SKL of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences
+  Institute of Computing Technology, Chinese Academy of Sciences
 - Research Intern, *Feb, 2017* - *Present*  
   2012 Lab, Huawei Technologies
 - Engneering Intern, *Sep, 2016* - *Jan, 2017*  
   Cambricon Technologies
 - Research Inter, *Aug, 2015* - *Sep, 2015*  
-  SKL of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences
+  Institute of Computing Technology, Chinese Academy of Sciences
 
 ## Research
 
@@ -50,6 +50,8 @@ I am starting in September 2018 as ph.D. candidate in State Key Laboratory of Co
 ## Awards and Honors
 
 ## Contact
+* Email: liguangli [at] ict [dot] ac [dot] cn
+* Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District Beijing, China
 
   [1]:http://ccst.jlu.edu.cn/info/1026/2144.htm
   [2]:http://ccst.jlu.edu.cn/info/1028/2176.htm
