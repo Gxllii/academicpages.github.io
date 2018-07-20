@@ -25,13 +25,13 @@ I am starting in September 2018 as ph.D. candidate in State Key Laboratory of Co
 
 ## Experience
 - Research Assistant, *Aug, 2016* - *Present*  
-  CARCH, Institute of Computing Technology, Chinese Academy of Sciences
+  SKL of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences
 - Research Intern, *Feb, 2017* - *Present*  
   2012 Lab, Huawei Technologies
 - Engneering Intern, *Sep, 2016* - *Jan, 2017*  
   Cambricon Technologies
 - Research Inter, *Aug, 2015* - *Sep, 2015*  
-  CARCH, Institute of Computing Technology, Chinese Academy of Sciences
+  SKL of Computer Architecture, Institute of Computing Technology, Chinese Academy of Sciences
 
 ## Research
 
