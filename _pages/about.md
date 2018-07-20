@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am starting in September 2018 as ph.D. candidate in State Key Laboratory of Computer Architecture, [Institute of Computing Technology of the Chinese Academy of Sciences][4]. My research interests include Programming Systems and Deep Learning.
+I am starting in September 2018 as ph.D. candidate in [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. My research interests include Programming Systems and Deep Learning.
 
 ## News
 
