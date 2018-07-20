@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am starting in September 2018 as ph.D. candidate in Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include Programming Systems and Deep Learning.
+I am starting in September 2018 as ph.D. candidate in State Key Laboratory of Computer Architecture, Institute of Computing Technology of the Chinese Academy of Sciences. My research interests include Programming Systems and Deep Learning.
 
 ## News
 
@@ -17,10 +17,10 @@ I am starting in September 2018 as ph.D. candidate in Institute of Computing Tec
 * B.S. in Computer Science and Technology, 2011-2015
   College of Computer Science and Technology, Jilin University
 * M.Eng. in Computer Technology, 2015-2018
-  Supervisor: [Prof. Lei Liu][1] and Associate Prof. Shuai Lv
+  Supervisor: [Prof. Lei Liu][1] and [Associate Prof. Shuai Lv][2]
   College of Computer Science and Technology, Jilin University
 * Ph.D. in Computer Architecture, 2018-2021 (expected)  
-  Supervisor: Prof. Xiaobing Feng and Dr. Lei Liu
+  Supervisor: [Prof. Xiaobing Feng][3] and Dr. Lei Liu
   University of of Chinese Academy of Sciences
 
 ## Experience
@@ -39,10 +39,18 @@ I am starting in September 2018 as ph.D. candidate in Institute of Computing Tec
 
 ### Publications
 
-## Services
+## Professinal Activities
 
-## Awards
+### Conference Reviewer
+
+### Journal Reviewer
+
+### Teaching Assistants
+
+## Awards and Honors
 
 ## Contact
 
   [1]:http://ccst.jlu.edu.cn/info/1026/2144.htm
+  [2]:http://ccst.jlu.edu.cn/info/1028/2176.htm
+  [3]:http://people.ucas.ac.cn/~fengxiaobing
