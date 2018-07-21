@@ -32,21 +32,26 @@ Guangli Li is a Ph.D. student in [State Key Laboratory of Computer Architecture]
 - Research Inter, *Aug, 2015* - *Sep, 2015*  
   Institute of Computing Technology, Chinese Academy of Sciences
 
-;## Research
+## Research
 
-;### Projects
+### Projects
 
-;### Publications
+### Publications
 
-;## Professinal Activities
+## Professinal Activities
 
-;### Conference Reviewer
+### PC Member
+* [ICANN2018][6]
 
-;### Journal Reviewer
+### Reviewer
 
-;### Teaching Assistants
+### Teaching Assistants
+* Compiler Construction Principle and Implementation Technique.   
+  (for undergraduate students. 2015, Jilin University)
+* Open Innovation Experiment Project.   
+  (for undergraduate students. 2015 and 2016, Jilin University)
 
-;## Awards and Honors
+## Awards and Honors
 
 ## Contact
 * Email: liguangli [at] ict [dot] ac [dot] cn
@@ -57,3 +62,4 @@ Guangli Li is a Ph.D. student in [State Key Laboratory of Computer Architecture]
   [3]:http://people.ucas.ac.cn/~fengxiaobing
   [4]:http://www.ict.ac.cn/
   [5]:http://www.carch.ac.cn/
+  [6]:https://e-nns.org/icann2018/index.php/organization/programme-committee/
