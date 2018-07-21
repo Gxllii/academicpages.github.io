@@ -37,7 +37,6 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 
 ### Selected Publications
 * Xueying Wang, Lei Liu, **Guangli Li**, Xiao Dong, Peng Zhao, Xiaobing Feng. Background subtraction on depth videos with convolutional neural networks. The 2018 International Joint Conference on Neural Networks, 2018, in press.
-* Mingzhe Tan, Ce Chi, Jiahao Zhang, Shichang Zhao, **Guangli Li**, Shuai Lü. An energy-aware virtual machine placement algorithm in cloud data center. Proceedings of the 2nd International Conference on Intelligent Information Processing (IIP' 17), 2017: 1-9.
 * Jiazhen Han, Zhengheng Yuan, Yiheng Han, Cheng Peng, Jing Liu and **Guangli Li**. An adaptive scheduling algorithm for heterogeneous Hadoop systems. IEEE/ACIS, International Conference on Computer and Information Science. IEEE, 2017:845-850.
 * Lei Liu, Yang Yang, **Guangli Li**, Qi Wang, Shuai Lü. Redundancy checking algorithms based on parallel novel extension rule. Journal of Experimental & Theoretical Artificial Intelligence, 2017, 29(3): 629-647.
 * Peng Zhang, Lei Liu, Rui Zhang, **Guangli Li**. Loss evaluation analysis of illegal attack in SCSKP. Soft Computing, 2017，21(2): 515-524.
