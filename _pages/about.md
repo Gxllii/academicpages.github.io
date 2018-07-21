@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "GuangLi Li"
+excerpt: "Guangli Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am starting in September 2018 as ph.D. candidate in [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. My research interests include Programming Systems and Deep Learning.
+Guangli Li is a Ph.D. student in [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. His research interests include Programming Systems and Deep Learning.
 
 ## News
 
@@ -32,21 +32,21 @@ I am starting in September 2018 as ph.D. candidate in [State Key Laboratory of C
 - Research Inter, *Aug, 2015* - *Sep, 2015*  
   Institute of Computing Technology, Chinese Academy of Sciences
 
-## Research
+;## Research
 
-### Projects
+;### Projects
 
-### Publications
+;### Publications
 
-## Professinal Activities
+;## Professinal Activities
 
-### Conference Reviewer
+;### Conference Reviewer
 
-### Journal Reviewer
+;### Journal Reviewer
 
-### Teaching Assistants
+;### Teaching Assistants
 
-## Awards and Honors
+;## Awards and Honors
 
 ## Contact
 * Email: liguangli [at] ict [dot] ac [dot] cn
