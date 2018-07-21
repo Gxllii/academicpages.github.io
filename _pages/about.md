@@ -42,14 +42,15 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 * Lei Liu, Yang Yang, **Guangli Li**, Qi Wang, Shuai Lü. Redundancy checking algorithms based on parallel novel extension rule. Journal of Experimental & Theoretical Artificial Intelligence, 2017, 29(3): 629-647.
 * Peng Zhang, Lei Liu, Rui Zhang, **Guangli Li**. Loss evaluation analysis of illegal attack in SCSKP. Soft Computing, 2017，21(2): 515-524.
 * Tongbo Zhang, **Guangli Li**, Yang Yang, Yue Xu, Shuai Lü. Fragmented files restoration algorithm based on character characteristic. Journal of Computational Information Systems, 2015, 11(22): 8405–8412.
-* **Guangli Li**, Han Li, Yeran Wang, Tongbo Zhang. The solution to node importance in complex networks based on PageRank algorithm. Applied Mechanics and Materials, 2014, 599: 1777-1780.
+* **Guangli Li**, Han Li, Yeran Wang, Tongbo Zhang. The solution to node importance in complex networks based on PageRank algorithm. Applied Mechanics and Materials, 2014, 599: 1777-1780.  
+
 ## Professinal Activities
 
 ### PC Member
-* [ICANN2018][6]
+* [ICANN 2018][6]
 
 ### Reviewer
-* NPC2017, NCTCS2016
+* NPC 2017, NCTCS 2016
 
 ### Teaching Assistants
 * Compiler Construction Principle and Implementation Technique.   
@@ -62,7 +63,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 * China National Scholarship (Undergraduate), 2014
 
 ## Contact
-* Email: liguangli [at] ict [dot] ac [dot] cn
+* Email: liguangli [at] ict.ac.cn
 * Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District Beijing, China
 
   [1]:http://ccst.jlu.edu.cn/info/1026/2144.htm
