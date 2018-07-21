@@ -10,7 +10,7 @@ redirect_from:
 
 Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. His research interests include Programming Systems and Deep Learning.
 
-## News
+## News 
 
 ## Education
 * Ph.D. in Computer Architecture, 2018-2021 (expected)  
@@ -38,6 +38,10 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 ### Projects
 
 ### Publications
+* Xueying Wang, Lei Liu, Guangli Li, Xiao Dong, Peng Zhao, Xiaobing Feng. Background subtraction on depth videos with convolutional neural networks. The 2018 International Joint Conference on Neural Networks, in press.
+* Lei Liu, Yang Yang, Guangli Li, Qi Wang, Shuai Lü. Redundancy checking algorithms based on parallel novel extension rule[J]. Journal of Experimental & Theoretical Artificial Intelligence, 2017, 29(3): 629-647.
+* Peng Zhang, Lei Liu, Rui Zhang, Guangli Li. Loss evaluation analysis of illegal attack in SCSKP[J]. Soft Computing, 2017，21(2): 515-524.
+
 
 ## Professinal Activities
 
