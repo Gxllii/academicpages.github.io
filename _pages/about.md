@@ -61,7 +61,11 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 * China National Scholarship (Undergraduate), 2014
 
 ## Contests
-* 
+* Second Prize in 2017 China Post-Graduate Mathematical Contest in Modeling, 2015, 2016, 2017
+* Frist Prize in 2017 Certificate Authority Cup Mathematical Contest in Modeling, 2016, 2017
+* Meritorious Winner in The Interdisciplinary Contest in Modeling, 2014
+* First Prize in The Electrical Engineering Mathematical Contest in Modeling, 2013
+* Bronze Medal in ACM/ICPC Asia Zhejiang Invitational Programming Contest, 2012
 
 ## Contact
 * Email: liguangli [at] ict.ac.cn
