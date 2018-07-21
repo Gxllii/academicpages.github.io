@@ -20,7 +20,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
   Supervisor: [Prof. Lei Liu][1] and [Associate Prof. Shuai Lv][2]  
   College of Computer Science and Technology, Jilin University  
 * B.S. in Computer Science and Technology, 2011-2015  
-  Supervisor: [Prof. Guixia Liu][7]
+  Supervisor: [Prof. Guixia Liu][7]  
   College of Computer Science and Technology, Jilin University  
 
 ## Experience
@@ -45,6 +45,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 * [ICANN2018][6]
 
 ### Reviewer
+* NPC2017, NCTCS2016
 
 ### Teaching Assistants
 * Compiler Construction Principle and Implementation Technique.   
