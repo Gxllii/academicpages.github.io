@@ -11,8 +11,8 @@ redirect_from:
 Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. His research interests include Programming Systems and Deep Learning.
 
 ## News 
-* July 2018: “Auto-tuning neural network quantization framework for collaborative inference between the cloud and edge. Guangli Li, Lei Liu, Xueying Wang, Xiao Dong, Peng Zhao, Xiaobing Feng” accepted by The 27th International Conference on Artificial Neural Networks (ICANN 2018).
-* July 2018: “Fast CNN pruning via redundancy-aware training. Xiao Dong, Lei Liu, Guangli Li, Peng Zhao, Xiaobing Feng” accepted by The 27th International Conference on Artificial Neural Networks (ICANN 2018).
+* July 2018: "Auto-tuning neural network quantization framework for collaborative inference between the cloud and edge. Guangli Li, Lei Liu, Xueying Wang, Xiao Dong, Peng Zhao, Xiaobing Feng" accepted by The 27th International Conference on Artificial Neural Networks (ICANN 2018).
+* July 2018: "Fast CNN pruning via redundancy-aware training. Xiao Dong, Lei Liu, Guangli Li, Peng Zhao, Xiaobing Feng" accepted by The 27th International Conference on Artificial Neural Networks (ICANN 2018).
 
 ## Education
 * Ph.D. in Computer Architecture, 2018-2021 (expected)  
