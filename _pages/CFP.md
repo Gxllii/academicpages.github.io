@@ -14,6 +14,7 @@ redirect_from:
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
 | A | AAAI 2019 | Hawaii, USA | September 5, 2018 | <https://aaai.org/Conferences/AAAI-19/> |
+| A | CVPR 2019 | Long Beach, CA | November 16, 2018 | <http://cvpr2019.thecvf.com/> |
 
 
 ### Programming Languages and Systems
