@@ -46,7 +46,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 
 ## Professinal Activities
 * PC Member: [ICANN 2018][6]
-* Conference Reviewer: NPC 2017, NCTCS 2016
+* Conference Reviewer: NPC 2017, NCTCS 2016, ICDIP 2016, NCTCS 2015
 * Journal Reviewer: Soft Computing
 * Student Member: IEEE, CCF, CAAI
 * Student Volunteer：IJCNN 2018
@@ -62,8 +62,8 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 * China National Scholarship (Undergraduate), 2014
 
 ## Contests
-* Second Prize in 2017 China Post-Graduate Mathematical Contest in Modeling, 2015, 2016, 2017
-* Frist Prize in 2017 Certificate Authority Cup Mathematical Contest in Modeling, 2016, 2017
+* Second Prize in China Post-Graduate Mathematical Contest in Modeling, 2015, 2016, 2017
+* Frist Prize in Certificate Authority Cup Mathematical Contest in Modeling, 2016, 2017
 * Meritorious Winner in The Interdisciplinary Contest in Modeling, 2014
 * First Prize in The Electrical Engineering Mathematical Contest in Modeling, 2013
 * Bronze Medal in ACM/ICPC Asia Zhejiang Invitational Programming Contest, 2012
