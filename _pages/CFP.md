@@ -22,7 +22,7 @@ redirect_from:
 
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
-| B | CGO 2019 | Washington DC, USA | September 7, 2018 | <http://cgo.org/cgo2019/> |
 | B | DCC 2019 | Snowbird, Utah, USA | November 1, 2018 | <http://www.cs.brandeis.edu/~dcc/> |
 | A | PLDI 2019 | Phoenix Arizona, USA | November 16, 2018 | <https://conf.researchr.org/home/pldi-2019> |
+| C | COMPSAC 2019 | Milwaukee, Wisconsin, USA | January 21, 2019 | <https://ieeecompsac.computer.org/2019/> |
 | A | VLDB 2019 | California, USA | March 1, 2019 | <http://vldb.org/2019/> |
