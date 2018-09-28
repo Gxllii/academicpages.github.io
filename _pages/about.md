@@ -54,10 +54,12 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 * Student Volunteer：IJCNN 2018
 
 ## Teaching Assistants
-* Compiler Construction Principle and Implementation Technique.   
-  (for undergraduate students. 2015, Jilin University)
+* Compilers: Principles, Techniques & Tools.   
+  (for undergraduate students. 2018, University of Chinese Academy of Sciences)
 * Open Innovation Experiment Project.   
   (for undergraduate students. 2015 and 2016, Jilin University)
+* Compiler Construction Principle and Implementation Technique.   
+  (for undergraduate students. 2015, Jilin University)
 
 ## Awards and Honors
 * China National Scholarship (Postgraduate), 2016
