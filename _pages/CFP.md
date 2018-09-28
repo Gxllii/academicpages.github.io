@@ -25,5 +25,6 @@ redirect_from:
 | B | DCC 2019 | Snowbird, Utah, USA | November 1, 2018 | <http://www.cs.brandeis.edu/~dcc/> |
 | A | PLDI 2019 | Phoenix Arizona, USA | November 16, 2018 | <https://conf.researchr.org/home/pldi-2019> |
 | C | COMPSAC 2019 | Milwaukee, Wisconsin, USA | January 21, 2019 | <https://ieeecompsac.computer.org/2019/> |
+| C | MSR 2019 | Montreal, QC, Canada | February 6, 2019 | <https://2019.msrconf.org/> |
 | A | VLDB 2019 | California, USA | March 1, 2019 | <http://vldb.org/2019/> |
 | C | SEKE 2019 | Lisbon, Portugal | March 1, 2019 | <http://ksiresearchorg.ipage.com/seke/seke19.html> |
