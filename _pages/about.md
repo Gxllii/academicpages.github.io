@@ -50,7 +50,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 * Student Member: IEEE, CCF, CAAI
 * Student Volunteer：IJCNN 2018
 
-## Teaching Assistants
+## Teaching Assistant
 * Compilers: Principles, Techniques & Tools.   
   (for undergraduate students. 2018, University of Chinese Academy of Sciences)
 * Open Innovation Experiment Project.   
