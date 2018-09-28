@@ -30,7 +30,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
   2012 Lab, Huawei Technologies
 - Engneering Intern, *Sep, 2016* - *Jan, 2017*  
   Cambricon Technologies
-- Research Inter, *Aug, 2015* - *Sep, 2015*  
+- Research Intern, *Aug, 2015* - *Sep, 2015*  
   Institute of Computing Technology, Chinese Academy of Sciences
 
 ## Research
