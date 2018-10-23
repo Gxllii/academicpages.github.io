@@ -15,6 +15,7 @@ redirect_from:
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
 | A | CVPR 2019 | Long Beach, CA | November 16, 2018 | <http://cvpr2019.thecvf.com/> |
 | C | IJCNN 2019 | Budapest, Hungary | December 15, 2018 | <https://www.ijcnn.org/> |
+| B | ICME 2019 | Shanghai, China | December 3, 2018 | <http://www.icme2019.org> |
 | A | ICCV 2019 | Seoul, Korea | March, 2019 | <http://iccv2019.thecvf.com/> |
 
 
