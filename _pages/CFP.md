@@ -16,7 +16,10 @@ redirect_from:
 | A | CVPR 2019 | Long Beach, CA | November 16, 2018 | <http://cvpr2019.thecvf.com/> |
 | C | IJCNN 2019 | Budapest, Hungary | December 15, 2018 | <https://www.ijcnn.org/> |
 | B | ICME 2019 | Shanghai, China | December 3, 2018 | <http://www.icme2019.org> |
+| A | IJCAI 2019 | Macao, China | February 25, 2019| <https://www.ijcai19.org> |
 | A | ICCV 2019 | Seoul, Korea | March, 2019 | <http://iccv2019.thecvf.com/> |
+| A | ACM MM 2019 | Nice, France | April 1, 2019 | <https://www.acmmm.org/2019/> |
+| C | BMVC 2019 | Cardiff, Wales, UK | April 29, 2019 | <https://bmvc2019.org> |
 
 
 ### Programming Languages and Systems
