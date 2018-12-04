@@ -15,7 +15,8 @@ redirect_from:
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
 | C | IJCNN 2019 | Budapest, Hungary | December 15, 2018 | <https://www.ijcnn.org/> |
 | B | ICME 2019 | Shanghai, China | December 17, 2018 | <http://www.icme2019.org> |
-| A | IJCAI 2019 | Macao, China | February 25, 2019| <https://www.ijcai19.org> |
+| C | PRICAI 2019 | Cuvu, Fiji | February 28, 2019 | <https://www.pricai.org/2019/> |
+| A | IJCAI 2019 | Macao, China | February 25, 2019 | <https://www.ijcai19.org> |
 | A | ICCV 2019 | Seoul, Korea | March 22, 2019 | <http://iccv2019.thecvf.com/> |
 | A | ACM MM 2019 | Nice, France | April 1, 2019 | <https://www.acmmm.org/2019/> |
 | C | BMVC 2019 | Cardiff, Wales, UK | April 29, 2019 | <https://bmvc2019.org> |
