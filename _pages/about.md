@@ -78,5 +78,5 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
   [3]:http://people.ucas.ac.cn/~fengxiaobing
   [4]:http://www.ict.ac.cn/
   [5]:http://www.carch.ac.cn/
-  [6]:https://e-nns.org/icann2018/index.php/organization/programme-committee/
+  [6]:https://e-nns.org/icann2018
   [7]:http://ccst.jlu.edu.cn/info/1026/2150.htm
