@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. His research interests include Programming Systems and Deep Learning.
+Guangli Li (李广力) is a Ph.D. student at [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. His research interests include Programming Systems and Deep Learning.
 
 ## News 
 
 ## Education
 * Ph.D. in Computer Architecture, 2018-2021 (expected)  
   Supervisor: [Prof. Xiaobing Feng][3] and Dr. Lei Liu  
-  University of of Chinese Academy of Sciences
+  University of Chinese Academy of Sciences
 * M.Eng. in Computer Technology, 2015-2018  
   Supervisor: [Prof. Lei Liu][1] and [Associate Prof. Shuai Lv][2]  
   College of Computer Science and Technology, Jilin University  
