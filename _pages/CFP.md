@@ -31,3 +31,4 @@ redirect_from:
 | B | ICS 2019 | Phoenix Arizona, USA | February 25, 2019 | <https://ics19.eecis.udel.edu> |
 | A | VLDB 2019 | California, USA | March 1, 2019 | <http://vldb.org/2019/> |
 | C | SEKE 2019 | Lisbon, Portugal | March 1, 2019 | <http://ksiresearchorg.ipage.com/seke/seke19.html> |
+| A | OOPSLA 2019 | Athens, Greece | April 5, 2019 | <https://2019.splashcon.org/track/splash-2019-oopsla> |
