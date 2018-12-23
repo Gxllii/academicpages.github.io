@@ -25,6 +25,7 @@ redirect_from:
 
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
+| C | CF 2019 | Alghero, Sardinia, Italy | January 14, 2019 | <http://www.computingfrontiers.org/2019/> |
 | C | COMPSAC 2019 | Milwaukee, Wisconsin, USA | January 21, 2019 | <https://ieeecompsac.computer.org/2019/> |
 | C | MSR 2019 | Montreal, QC, Canada | February 6, 2019 | <https://2019.msrconf.org/> |
 | B | LCTES 2019 | Phoenix Arizona, USA | February 22, 2019 | <https://conf.researchr.org/home/LCTES-2019> |
@@ -32,3 +33,4 @@ redirect_from:
 | A | VLDB 2019 | California, USA | March 1, 2019 | <http://vldb.org/2019/> |
 | C | SEKE 2019 | Lisbon, Portugal | March 1, 2019 | <http://ksiresearchorg.ipage.com/seke/seke19.html> |
 | A | OOPSLA 2019 | Athens, Greece | April 5, 2019 | <https://2019.splashcon.org/track/splash-2019-oopsla> |
+
