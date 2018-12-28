@@ -28,6 +28,7 @@ redirect_from:
 | C | CF 2019 | Alghero, Sardinia, Italy | January 14, 2019 | <http://www.computingfrontiers.org/2019/> |
 | C | COMPSAC 2019 | Milwaukee, Wisconsin, USA | January 21, 2019 | <https://ieeecompsac.computer.org/2019/> |
 | C | MSR 2019 | Montreal, QC, Canada | February 6, 2019 | <https://2019.msrconf.org/> |
+| C | Euro-Par 2019 | Göttingen, Germany | February 15, 2019 | <http://2019.euro-par.org> |
 | B | LCTES 2019 | Phoenix Arizona, USA | February 22, 2019 | <https://conf.researchr.org/home/LCTES-2019> |
 | B | ICS 2019 | Phoenix Arizona, USA | February 25, 2019 | <https://ics19.eecis.udel.edu> |
 | A | VLDB 2019 | California, USA | March 1, 2019 | <http://vldb.org/2019/> |
