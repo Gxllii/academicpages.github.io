@@ -31,6 +31,7 @@ redirect_from:
 | C | Euro-Par 2019 | Göttingen, Germany | February 15, 2019 | <http://2019.euro-par.org> |
 | B | LCTES 2019 | Phoenix Arizona, USA | February 22, 2019 | <https://conf.researchr.org/home/LCTES-2019> |
 | B | ICS 2019 | Phoenix Arizona, USA | February 25, 2019 | <https://ics19.eecis.udel.edu> |
+| C | COLLABORATECOM| London, UK | March 10, 2019 | <http://collaboratecom.org/> |
 | A | VLDB 2019 | California, USA | March 1, 2019 | <http://vldb.org/2019/> |
 | C | SEKE 2019 | Lisbon, Portugal | March 1, 2019 | <http://ksiresearchorg.ipage.com/seke/seke19.html> |
 | A | OOPSLA 2019 | Athens, Greece | April 5, 2019 | <https://2019.splashcon.org/track/splash-2019-oopsla> |
