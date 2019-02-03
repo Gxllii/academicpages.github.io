@@ -83,8 +83,8 @@ author:
   bio              : "Ph.D. candidate at Institute of Computing Technology, Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com.hk/citations?user=2rjYw64AAAAJ&hl=zh-CN"
+  email            : "liguangli@ict.ac.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/guangli-li-132981102/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
