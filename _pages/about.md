@@ -36,6 +36,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 ## Research
 
 ### Selected Publications
+* Xiao Dong, Lei Liu, **Guangli Li**, Jiansong Li, Peng Zhao, Xueying Wang, Xiaobing Feng. Exploiting the input sparsity to accelerate deep neural networks. **24th Symposium on Principles and Practice of Parallel Programming (PPoPP)**, 2019: 401-402.
 * **Guangli Li**, Lei Liu, Xueying Wang, Xiao Dong, Peng Zhao, Xiaobing Feng. Auto-tuning neural network quantization framework for collaborative inference between the cloud and edge. **27th International Conference on Artificial Neural Networks (ICANN)**, 2018: 402-411.
 * Xiao Dong, Lei Liu, **Guangli Li**, Peng Zhao, Xiaobing Feng. Fast CNN pruning via redundancy-aware training. **27th International Conference on Artificial Neural Networks (ICANN)**, 2018: 3-13.
 * Xueying Wang, Lei Liu, **Guangli Li**, Xiao Dong, Peng Zhao, Xiaobing Feng. Background subtraction on depth videos with convolutional neural networks. **The 2018 International Joint Conference on Neural Networks (IJCNN)**, 2018: 2961-2967.
