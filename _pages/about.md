@@ -20,7 +20,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
   Advisors: [Prof. Lei Liu][1] and [Associate Prof. Shuai Lv][2]  
   College of Computer Science and Technology, Jilin University  
 * B.S. in Computer Science and Technology, 2011-2015  
-  Advisor: [Prof. Guixia Liu][7]  
+  Advisor: [Prof. Guixia Liu][6]  
   College of Computer Science and Technology, Jilin University  
 
 ## Experience
@@ -45,7 +45,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 * Peng Zhang, Lei Liu, Rui Zhang, **Guangli Li**. Loss evaluation analysis of illegal attack in SCSKP. **Soft Computing**, 2017，21(2): 515-524.
 
 ## Professinal Activities
-* PC Member: [ICANN 2018][6]
+* PC Member: AIAI 2019, ICANN 2018 
 * Conference Reviewer: NPC 2017, NCTCS 2016, ICDIP 2016, NCTCS 2015
 * Journal Reviewer: Soft Computing
 * Student Member: IEEE, ACM, CCF, CAAI
@@ -78,5 +78,4 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
   [3]:http://people.ucas.ac.cn/~fengxiaobing
   [4]:http://www.ict.ac.cn/
   [5]:http://www.carch.ac.cn/
-  [6]:https://e-nns.org/icann2018
-  [7]:http://ccst.jlu.edu.cn/info/1026/2150.htm
+  [6]:http://ccst.jlu.edu.cn/info/1026/2150.htm
