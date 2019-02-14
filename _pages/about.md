@@ -41,9 +41,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 * **Guangli Li**, Lei Liu, Xueying Wang, Xiao Dong, Peng Zhao, Xiaobing Feng. Auto-tuning neural network quantization framework for collaborative inference between the cloud and edge. **27th International Conference on Artificial Neural Networks (ICANN)**, 2018: 402-411.
 * Xiao Dong, Lei Liu, **Guangli Li**, Peng Zhao, Xiaobing Feng. Fast CNN pruning via redundancy-aware training. **27th International Conference on Artificial Neural Networks (ICANN)**, 2018: 3-13.
 * Xueying Wang, Lei Liu, **Guangli Li**, Xiao Dong, Peng Zhao, Xiaobing Feng. Background subtraction on depth videos with convolutional neural networks. **The 2018 International Joint Conference on Neural Networks (IJCNN)**, 2018: 2961-2967.
-* Jiazhen Han, Zhengheng Yuan, Yiheng Han, Cheng Peng, Jing Liu, **Guangli Li**. An adaptive scheduling algorithm for heterogeneous Hadoop systems. **IEEE/ACIS, International Conference on Computer and Information Science (ICIS)**. IEEE, 2017: 845-850.
 * Lei Liu, Yang Yang, **Guangli Li**, Qi Wang, Shuai Lü. Redundancy checking algorithms based on parallel novel extension rule. **Journal of Experimental & Theoretical Artificial Intelligence (JETAI)**, 2017, 29(3): 629-647.
-* Peng Zhang, Lei Liu, Rui Zhang, **Guangli Li**. Loss evaluation analysis of illegal attack in SCSKP. **Soft Computing**, 2017，21(2): 515-524.
 
 ## Professinal Activities
 * PC Member: AIAI 2019, ICANN 2018 
