@@ -36,7 +36,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 ## Research
 
 ### Selected Publications
-* **Guangli Li**, Lei Liu, Xiaobing Feng. Accelerating GPU Computing at Runtime with Binary Optimization. **2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)**, 2019: 276-277.
+* **Guangli Li**, Lei Liu, Xiaobing Feng. Accelerating GPU computing at runtime with binary optimization. **2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)**, 2019: 276-277.
 * Xiao Dong, Lei Liu, **Guangli Li**, Jiansong Li, Peng Zhao, Xueying Wang, Xiaobing Feng. Exploiting the input sparsity to accelerate deep neural networks. **24th Symposium on Principles and Practice of Parallel Programming (PPoPP)**, 2019: 401-402.
 * **Guangli Li**, Lei Liu, Xueying Wang, Xiao Dong, Peng Zhao, Xiaobing Feng. Auto-tuning neural network quantization framework for collaborative inference between the cloud and edge. **27th International Conference on Artificial Neural Networks (ICANN)**, 2018: 402-411.
 * Xiao Dong, Lei Liu, **Guangli Li**, Peng Zhao, Xiaobing Feng. Fast CNN pruning via redundancy-aware training. **27th International Conference on Artificial Neural Networks (ICANN)**, 2018: 3-13.
