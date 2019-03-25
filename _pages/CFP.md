@@ -22,7 +22,10 @@ redirect_from:
 
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
-| C | COLLABORATECOM| London, UK | March 10, 2019 | <http://collaboratecom.org/> |
+| C | COLLABORATECOM| London, UK | March 30, 2019 | <http://collaboratecom.org/> |
 | A | OOPSLA 2019 | Athens, Greece | April 5, 2019 | <https://2019.splashcon.org/track/splash-2019-oopsla> |
 | B | ICCAD 2019 | Westminster, CO, USA | April 8, 2019 | <https://iccad.com/> |
+| C | NPC 2019 | Inner Mongolia, China | May 15, 2019 | <http://epcc.sjtu.edu.cn/NPC2019/> |
+| - | IISWC 2019 | Orlando, Florida, USA | May 31, 2019 | <http://www.iiswc.org/iiswc2019/> |
+| C | ISPA 2019 | Xiamen, China | August 18, 2019 | <http://www.ispa2019.com/> |
 
