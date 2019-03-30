@@ -16,7 +16,7 @@ redirect_from:
 | A | ICCV 2019 | Seoul, Korea | March 22, 2019 | <http://iccv2019.thecvf.com/> |
 | A | ACM MM 2019 | Nice, France | April 1, 2019 | <https://www.acmmm.org/2019/> |
 | C | BMVC 2019 | Cardiff, Wales, UK | April 29, 2019 | <https://bmvc2019.org> |
-
+| C | ICONIP 2019 | Sydney, Australia | June 1, 2019 | <http://ajiips.com.au/iconip2019> |
 
 ### Programming Languages and Systems
 
