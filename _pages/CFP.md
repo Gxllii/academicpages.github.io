@@ -13,8 +13,6 @@ redirect_from:
 
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
-| A | ICCV 2019 | Seoul, Korea | March 22, 2019 | <http://iccv2019.thecvf.com/> |
-| A | ACM MM 2019 | Nice, France | April 1, 2019 | <https://www.acmmm.org/2019/> |
 | C | BMVC 2019 | Cardiff, Wales, UK | April 29, 2019 | <https://bmvc2019.org> |
 | C | ICONIP 2019 | Sydney, Australia | June 1, 2019 | <http://ajiips.com.au/iconip2019> |
 
@@ -22,7 +20,6 @@ redirect_from:
 
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
-| C | COLLABORATECOM| London, UK | March 30, 2019 | <http://collaboratecom.org/> |
 | A | OOPSLA 2019 | Athens, Greece | April 5, 2019 | <https://2019.splashcon.org/track/splash-2019-oopsla> |
 | B | ICCAD 2019 | Westminster, CO, USA | April 8, 2019 | <https://iccad.com/> |
 | B | PACT 2019 | Seattle, WA, USA | April 15, 2019 | <http://hpc.pnl.gov/pact19/> |
