@@ -26,5 +26,7 @@ redirect_from:
 | B | ICPP 2019 | Kyoto, Japan | April 15, 2019 | <https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/index.html> |
 | C | NPC 2019 | Inner Mongolia, China | May 15, 2019 | <http://epcc.sjtu.edu.cn/NPC2019/> |
 | - | IISWC 2019 | Orlando, Florida, USA | May 31, 2019 | <http://www.iiswc.org/iiswc2019/> |
+| C | HiPC 2019 | Hyderabad, India | June 7, 2019 | <http://hipc.org/>  |
+| C | IPCCC 2019 | London, UK | June 21, 2019 | <http://www.ipccc.org/>  |
 | C | ISPA 2019 | Xiamen, China | August 18, 2019 | <http://www.ispa2019.com/> |
 
