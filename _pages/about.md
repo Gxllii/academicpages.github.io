@@ -46,9 +46,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 
 
 ## Professinal Activities
-* PC Member: AIAI 2019, ICANN 2018 
-* Conference Reviewer: NPC 2017, NCTCS 2016, ICDIP 2016, NCTCS 2015
-* Journal Reviewer: Soft Computing
+* Reviewer: AIAI 2019, ICANN 2018
 * Student Member: IEEE, ACM, CCF, CAAI
 * Student Volunteer：IJCNN 2018
 
