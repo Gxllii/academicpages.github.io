@@ -24,4 +24,5 @@ redirect_from:
 | C | HiPC 2019 | Hyderabad, India | June 7, 2019 | <http://hipc.org/>  |
 | C | IPCCC 2019 | London, UK | June 21, 2019 | <http://www.ipccc.org/>  |
 | C | ISPA 2019 | Xiamen, China | August 18, 2019 | <http://www.ispa2019.com/> |
+| A | ICSE 2020 | Seoul, South Korea | August 23, 2019 | <https://conf.researchr.org/home/icse-2020> |
 
