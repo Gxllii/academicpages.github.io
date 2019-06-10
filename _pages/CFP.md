@@ -13,7 +13,7 @@ redirect_from:
 
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
-| C | ICONIP 2019 | Sydney, Australia | June 1, 2019 | <http://ajiips.com.au/iconip2019> |
+| C | ICONIP 2019 | Sydney, Australia | June 30, 2019 | <http://ajiips.com.au/iconip2019> |
 | A | AAAI 2020 | New York, New York, USA | September 5, 2019| <https://aaai.org/Conferences/AAAI-20/> |
 
 ### Programming Languages and Systems
