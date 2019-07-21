@@ -59,6 +59,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
   (for undergraduate students. 2015, Jilin University)
 
 ## Awards and Honors
+* Qihoo 360 Scholarship, 2014, 2016
 * China National Scholarship (Postgraduate), 2016
 * China National Scholarship (Undergraduate), 2014
 
