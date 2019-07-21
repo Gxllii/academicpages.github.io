@@ -26,7 +26,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 ## Experience
 - Research Assistant, *Aug, 2016* - *Present*  
   Institute of Computing Technology, Chinese Academy of Sciences
-- Research Intern, *Feb, 2017* - *June, 2019*    
+- Research Intern, *Feb, 2017* - *Jun, 2019*    
   2012 Lab, Huawei Technologies
 - Research Intern, *Sep, 2016* - *Jan, 2017*  
   Cambricon Technologies
