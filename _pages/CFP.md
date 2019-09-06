@@ -21,10 +21,10 @@ redirect_from:
 
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
-| C | ISPA 2019 | Xiamen, China | August 18, 2019 | <http://www.ispa2019.com/> |
-| A | ICSE 2020 | Seoul, South Korea | August 23, 2019 | <https://conf.researchr.org/home/icse-2020> |
 | B | IPDPS 2020 | New Orleans, Louisiana, USA | October 7 | <http://ipdps.org/> |
 | C | ISPASS 2020| Boston, Massachusetts, USA | October 3, 2019 | <http://www.ispass.org/ispass2020/> |
 | B | EuroSys 2020 | Heraklion, Crete, Greece | November 4, 2019| <https://2020.eurosys.org/> | 
 | A | PLDI 2020 | London, UK | November 22, 2019| <https://pldi20.sigplan.org/home> |
+| C | COMPSCA 2020 | Madrid, Spain | January 20, 2020 | <https://ieeecompsac.computer.org/2020/> |
 | C | SEKE 2020 | Pittsburgh, USA | March 13, 2020 | <http://ksiresearchorg.ipage.com/seke/seke20.html> |
+
