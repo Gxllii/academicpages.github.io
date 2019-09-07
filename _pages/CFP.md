@@ -15,6 +15,7 @@ redirect_from:
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
 | A | AAAI 2020 | New York, New York, USA | September 5, 2019 | <https://aaai.org/Conferences/AAAI-20/> |
 | B | PPSN 2020 | Leiden, The Netherlands | March 25, 2020 | <http://ppsn2020.liacs.leidenuniv.nl> |
+| C | ICPR 2020 | Milan, Italy | March 2, 2020 | <https://www.micc.unifi.it/icpr2020/> |
 | C | ACCV 2020 | Kyoto, Japan | July 1, 2020 | <http://accv2020.kyoto> |
 
 ### Programming Languages and Systems
