@@ -27,4 +27,5 @@ redirect_from:
 | C | COMPSCA 2020 | Madrid, Spain | January 20, 2020 | <https://ieeecompsac.computer.org/2020/> |
 | C | SEKE 2020 | Pittsburgh, USA | March 13, 2020 | <http://ksiresearchorg.ipage.com/seke/seke20.html> |
 | B | ICPP 2020 | Canada | March 9, 2020 | <https://jnamaral.github.io/icpp20/> |
+| B | CODES ISSS | | April, 2020 | <https://www.esweek.org/codes> |
 
