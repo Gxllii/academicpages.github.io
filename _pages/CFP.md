@@ -22,9 +22,9 @@ redirect_from:
 
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
-| B | IPDPS 2020 | New Orleans, Louisiana, USA | October 7 | <http://ipdps.org/> |
 | B | EuroSys 2020 | Heraklion, Crete, Greece | November 4, 2019| <https://2020.eurosys.org/> | 
 | A | PLDI 2020 | London, UK | November 22, 2019| <https://pldi20.sigplan.org/home> |
 | C | COMPSCA 2020 | Madrid, Spain | January 20, 2020 | <https://ieeecompsac.computer.org/2020/> |
 | C | SEKE 2020 | Pittsburgh, USA | March 13, 2020 | <http://ksiresearchorg.ipage.com/seke/seke20.html> |
+| B | ICPP 2020 | Canada | March 9, 2020 | <https://jnamaral.github.io/icpp20/> |
 
