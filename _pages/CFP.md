@@ -14,6 +14,7 @@ redirect_from:
 |  CCF | Conference Name | Conference Location | Submission Deadline | Website |
 | ------------ | ------------ |  ------------ |  ------------ |  ------------ |
 | A | CVPR 2020 | Seattle, WA, USA | November 15, 2019 | <http://cvpr2020.thecvf.com> |
+| C | ICIP 2020 | Seattle, WA, USA | January 15, 2020 | <https://2020.ieeeicip.org> |
 | B | PPSN 2020 | Leiden, The Netherlands | March 25, 2020 | <http://ppsn2020.liacs.leidenuniv.nl> |
 | C | ICPR 2020 | Milan, Italy | March 2, 2020 | <https://www.micc.unifi.it/icpr2020/> |
 | C | ACCV 2020 | Kyoto, Japan | July 1, 2020 | <http://accv2020.kyoto> |
