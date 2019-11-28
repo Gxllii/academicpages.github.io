@@ -37,14 +37,12 @@ Oct 2019: Our team received the first place in the AI System and Algorithm Chall
 ## Research
 
 ### Selected Publications
+* Xiao Dong, Lei Liu, Peng Zhao, **Guangli Li**, Jiansong Li, Xueying Wang, Xiaobing Feng. Acorns: a framework for accelerating deep neural networks with input sparsity. **28th International Conference on Parallel Architectures and Compilation Techniques (PACT)**, 2019: 178-191.
 * **Guangli Li**, Lei Liu, Xiaobing Feng. Accelerating GPU computing at runtime with binary optimization. **2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)**, 2019: 276-277.
 * Xiao Dong, Lei Liu, **Guangli Li**, Jiansong Li, Peng Zhao, Xueying Wang, Xiaobing Feng. Exploiting the input sparsity to accelerate deep neural networks. **24th Symposium on Principles and Practice of Parallel Programming (PPoPP)**, 2019: 401-402.
 * **Guangli Li**, Lei Liu, Xueying Wang, Xiao Dong, Peng Zhao, Xiaobing Feng. Auto-tuning neural network quantization framework for collaborative inference between the cloud and edge. **27th International Conference on Artificial Neural Networks (ICANN)**, 2018: 402-411.
 * Xiao Dong, Lei Liu, **Guangli Li**, Peng Zhao, Xiaobing Feng. Fast CNN pruning via redundancy-aware training. **27th International Conference on Artificial Neural Networks (ICANN)**, 2018: 3-13.
 * Xueying Wang, Lei Liu, **Guangli Li**, Xiao Dong, Peng Zhao, Xiaobing Feng. Background subtraction on depth videos with convolutional neural networks. **The 2018 International Joint Conference on Neural Networks (IJCNN)**, 2018: 2961-2967.
-* Lei Liu, Yang Yang, **Guangli Li**, Qi Wang, Shuai Lü. Redundancy checking algorithms based on parallel novel extension rule. **Journal of Experimental & Theoretical Artificial Intelligence (JETAI)**, 2017, 29(3): 629-647.
-* Peng Zhang, Lei Liu, Rui Zhang, **Guangli Li**. Loss evaluation analysis of illegal attack in SCSKP. **Soft Computing**, 2017，21(2): 515-524.
-
 
 ## Professinal Activities
 * Reviewer: IEEE Access, AIAI 2019, ICANN 2018 
