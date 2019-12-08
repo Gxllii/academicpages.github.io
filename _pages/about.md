@@ -11,7 +11,7 @@ redirect_from:
 Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. His research interests include Programming Systems and Deep Learning.
 
 ## News 
-Oct 2019: Our team received the first place in the AI System and Algorithm Challenges (Cambricon Track) at [Bench'19][101].
+**Oct 2019**: Our team received the first place in the AI System and Algorithm Challenges (Cambricon Track) at [Bench'19][101].
 
 ## Education
 * Ph.D. in Computer Architecture, 2018-2021 (expected)  
