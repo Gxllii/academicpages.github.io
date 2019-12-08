@@ -63,11 +63,11 @@ Oct 2019: Our team received the first place in the AI System and Algorithm Chall
 * China National Scholarship (Undergraduate), 2014
 
 ## Contests
-* First Place in BenchCouncil AI System and Algorithm Challenges (Cambricon Track), 2019 
-* Second Prize in China Post-Graduate Mathematical Contest in Modeling, 2015, 2016, 2017
-* First Prize in Certificate Authority Cup Mathematical Contest in Modeling, 2016, 2017
-* Meritorious Winner in The Interdisciplinary Contest in Modeling, 2014
-* First Prize in The Electrical Engineering Mathematical Contest in Modeling, 2013
+* *First Place* in BenchCouncil AI System and Algorithm Challenges (Cambricon Track), 2019 
+* *Second Prize* in China Post-Graduate Mathematical Contest in Modeling, 2015, 2016, 2017
+* *First Prize* in Certificate Authority Cup Mathematical Contest in Modeling, 2016, 2017
+* *Meritorious Winner* in The Interdisciplinary Contest in Modeling, 2014
+* *First Prize* in The Electrical Engineering Mathematical Contest in Modeling, 2013
 
 ## Contact
 * Email: liguangli [at] ict.ac.cn
