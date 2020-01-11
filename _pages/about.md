@@ -74,7 +74,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 * Address: No.6 Kexueyuan South Road Zhongguancun, Haidian District Beijing, China
 
   [1]:http://ccst.jlu.edu.cn/info/1026/2144.htm
-  [2]:http://ccst.jlu.edu.cn/info/1028/2176.htm
+  [2]:http://ccst.jlu.edu.cn/info/1313/10523.htm
   [3]:http://people.ucas.ac.cn/~fengxiaobing
   [4]:http://www.ict.ac.cn/
   [5]:http://www.carch.ac.cn/
