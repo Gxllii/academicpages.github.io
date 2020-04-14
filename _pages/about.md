@@ -11,7 +11,7 @@ redirect_from:
 Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. His research interests include Programming Systems and Deep Learning.
 
 ## News  
-**Oct 2019**: Our team received the **First Place** in the AI System and Algorithm Challenges (Cambricon Track) at [Bench'19][101].
+**Oct 2019**: Our team is awarded the the **First Place** in the AI System and Algorithm Challenges (Cambricon Track) at [Bench'19][101].
 
 ## Education
 * Ph.D. in Computer Architecture, 2018-2021 (expected)  
@@ -37,6 +37,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 ## Research
 
 ### Selected Publications
+* **Guangli Li**, Xueying Wang, Xiu Ma, Lei Liu, Xiaobing Feng. LANCE: Efficient Low-Precision Quantized Winograd Convolution for Neural Networks Based on Graphics Processing Units. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2020: 3842-3846.
 * **Guangli Li**, Lei Liu, Xiaobing Feng. Accelerating GPU computing at runtime with binary optimization. **2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)**, 2019: 276-277.
 * Xiao Dong, Lei Liu, **Guangli Li**, Jiansong Li, Peng Zhao, Xueying Wang, Xiaobing Feng. Exploiting the input sparsity to accelerate deep neural networks. **24th Symposium on Principles and Practice of Parallel Programming (PPoPP)**, 2019: 401-402.
 * Xiao Dong, Lei Liu, Peng Zhao, **Guangli Li**, Jiansong Li, Xueying Wang, Xiaobing Feng. Acorns: a framework for accelerating deep neural networks with input sparsity. **28th International Conference on Parallel Architectures and Compilation Techniques (PACT)**, 2019: 178-191.
