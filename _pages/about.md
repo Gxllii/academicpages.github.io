@@ -15,7 +15,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 **October 2019**: Our team is awarded the **First Place** in the AI System and Algorithm Challenges (Cambricon Track) at [Bench'19][101].
 
 ## Education
-* Ph.D. in Computer Architecture, 2018-2021 (expected)  
+* Ph.D. in Computer Architecture, 2018-2022 (expected)  
   Advisors: [Prof. Xiaobing Feng][3] and Dr. Lei Liu  
   University of Chinese Academy of Sciences
 * M.Eng. in Computer Technology, 2015-2018  
