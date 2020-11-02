@@ -16,7 +16,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 
 ## Education
 * Ph.D. in Computer Architecture, 2018-2022 (expected)  
-  Advisors: [Prof. Xiaobing Feng][3] and Dr. Lei Liu  
+  Advisor: [Prof. Xiaobing Feng][3]
   University of Chinese Academy of Sciences
 * M.Eng. in Computer Technology, 2015-2018  
   Advisors: [Prof. Lei Liu][1] and [Associate Prof. Shuai Lv][2]  
@@ -38,6 +38,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 ## Research
 
 ### Selected Publications
+* **Guangli Li**, Xiu Ma, Xueying Wang, Lei Liu, Jingling Xue, Xiaobing Feng. Fusion-Catalyzed Pruning for Optimizing Deep Learning on Intelligent Edge Devices. **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**, 2020: 3614-3626.
 * **Guangli Li**, Xueying Wang, Xiu Ma, Lei Liu, Xiaobing Feng. LANCE: Efficient Low-Precision Quantized Winograd Convolution for Neural Networks Based on Graphics Processing Units. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2020: 3842-3846.
 * Xueying Wang, **Guangli Li**, Xiao Dong, Jiansong Li, Lei Liu and Xiaobing Feng. Accelerating Deep Learning Inference with Cross-Layer Data Reuse on GPUs. **International European Conference on Parallel and Distributed Computing (Euro-Par)**, 2020: 219-233.
 * **Guangli Li**, Lei Liu, Xiaobing Feng. Accelerating GPU computing at runtime with binary optimization. **2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)**, 2019: 276-277.
