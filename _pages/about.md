@@ -11,7 +11,7 @@ redirect_from:
 Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. His research interests include Programming Systems and Deep Learning.
 
 ## News  
-**May 2020**: *Accelerating Deep Learning Inference with Cross-Layer Data Reuse on GPUs* is accepted by [Euro-Par 2020][102].  
+**May 2020**: *Accelerating deep learning inference with cross-layer data reuse on GPUs* is accepted by [Euro-Par 2020][102].  
 **October 2019**: Our team is awarded the **First Place** in the AI System and Algorithm Challenges (Cambricon Track) at [Bench'19][101].
 
 ## Education
@@ -38,9 +38,9 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 ## Research
 
 ### Selected Publications
-* **Guangli Li**, Xiu Ma, Xueying Wang, Lei Liu, Jingling Xue, Xiaobing Feng. Fusion-Catalyzed Pruning for Optimizing Deep Learning on Intelligent Edge Devices. **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**, 2020: 3614-3626.  
-* **Guangli Li**, Xueying Wang, Xiu Ma, Lei Liu, Xiaobing Feng. LANCE: Efficient Low-Precision Quantized Winograd Convolution for Neural Networks Based on Graphics Processing Units. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2020: 3842-3846.
-* Xueying Wang, **Guangli Li**, Xiao Dong, Jiansong Li, Lei Liu and Xiaobing Feng. Accelerating Deep Learning Inference with Cross-Layer Data Reuse on GPUs. **International European Conference on Parallel and Distributed Computing (Euro-Par)**, 2020: 219-233.
+* **Guangli Li**, Xiu Ma, Xueying Wang, Lei Liu, Jingling Xue, Xiaobing Feng. Fusion-catalyzed pruning for optimizing deep learning on intelligent edge devices. **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**, 2020: 3614-3626.  
+* **Guangli Li**, Xueying Wang, Xiu Ma, Lei Liu, Xiaobing Feng. LANCE: efficient low-precision quantized Winograd convolution for neural networks based on graphics processing units. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2020: 3842-3846.
+* Xueying Wang, **Guangli Li**, Xiao Dong, Jiansong Li, Lei Liu and Xiaobing Feng. Accelerating deep learning inference with cross-layer data reuse on GPUs. **International European Conference on Parallel and Distributed Computing (Euro-Par)**, 2020: 219-233.
 * **Guangli Li**, Lei Liu, Xiaobing Feng. Accelerating GPU computing at runtime with binary optimization. **2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)**, 2019: 276-277.
 * Xiao Dong, Lei Liu, **Guangli Li**, Jiansong Li, Peng Zhao, Xueying Wang, Xiaobing Feng. Exploiting the input sparsity to accelerate deep neural networks. **24th Symposium on Principles and Practice of Parallel Programming (PPoPP)**, 2019: 401-402.
 * Xiao Dong, Lei Liu, Peng Zhao, **Guangli Li**, Jiansong Li, Xueying Wang, Xiaobing Feng. Acorns: a framework for accelerating deep neural networks with input sparsity. **28th International Conference on Parallel Architectures and Compilation Techniques (PACT)**, 2019: 178-191.
