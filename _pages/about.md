@@ -11,6 +11,7 @@ redirect_from:
 Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. His research interests include Programming Systems and Deep Learning.
 
 ## News  
+**Oct 2020**: *Unleashing the low-precision computation potential of Tensor Cores on GPUs* is accepted by [CGO 2021][103].  
 **May 2020**: *Accelerating deep learning inference with cross-layer data reuse on GPUs* is accepted by [Euro-Par 2020][102].  
 **October 2019**: Our team is awarded the **First Place** in the AI System and Algorithm Challenges (Cambricon Track) at [Bench'19][101].
 
@@ -86,3 +87,4 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
   [6]:http://ccst.jlu.edu.cn/info/1026/2150.htm
   [101]:http://www.benchcouncil.org/bench19/index.html
   [102]:https://2020.euro-par.org/
+  [103]:https://conf.researchr.org/home/cgo-2021
