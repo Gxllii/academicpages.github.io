@@ -13,7 +13,6 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 ## News  
 **Oct 2020**: *Unleashing the low-precision computation potential of Tensor Cores on GPUs* is accepted by [CGO 2021][103].  
 **May 2020**: *Accelerating deep learning inference with cross-layer data reuse on GPUs* is accepted by [Euro-Par 2020][102].  
-**October 2019**: Our team is awarded the **First Place** in the AI System and Algorithm Challenges (Cambricon Track) at [Bench'19][101].
 
 ## Education
 * Ph.D. in Computer Architecture, 2018-2022 (expected)  
@@ -52,7 +51,6 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 ## Professinal Activities
 * Reviewer: IEEE Access, AIAI 2019, ICANN 2018 
 * Student Member: IEEE, ACM, CCF, CAAI
-* Student Volunteer：IJCNN 2018
 
 ## Teaching Assistant
 * Compilers: Principles, Techniques & Tools.   
