@@ -19,7 +19,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
   Advisor: [Prof. Xiaobing Feng][3]  
   University of Chinese Academy of Sciences
 * M.Eng. in Computer Technology, 2015-2018  
-  Advisors: [Prof. Lei Liu][1] and [Associate Prof. Shuai Lv][2]  
+  Advisors: [Prof. Lei Liu][1] and [Prof. Shuai Lv][2]  
   College of Computer Science and Technology, Jilin University  
 * B.S. in Computer Science and Technology, 2011-2015  
   Advisor: [Prof. Guixia Liu][6]  
