@@ -38,6 +38,7 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 ## Research
 
 ### Selected Publications
+* **Guangli Li**, Jingling Xue, Lei Liu, Xueying Wang, Xiu Ma, Xiao Dong, Jiansong Li, Xiaobing Feng. Unleashing the Low-Precision Computation Potential of Tensor Cores on GPUs. **International Symposium on Code Generation and Optimization (CGO)**, 2021: 90-102.
 * **Guangli Li**, Xiu Ma, Xueying Wang, Lei Liu, Jingling Xue, Xiaobing Feng. Fusion-catalyzed pruning for optimizing deep learning on intelligent edge devices. **IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)**, 2020: 3614-3626.  
 * **Guangli Li**, Xueying Wang, Xiu Ma, Lei Liu, Xiaobing Feng. LANCE: efficient low-precision quantized Winograd convolution for neural networks based on graphics processing units. **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)**, 2020: 3842-3846.
 * Xueying Wang, **Guangli Li**, Xiao Dong, Jiansong Li, Lei Liu and Xiaobing Feng. Accelerating deep learning inference with cross-layer data reuse on GPUs. **International European Conference on Parallel and Distributed Computing (Euro-Par)**, 2020: 219-233.
@@ -45,8 +46,6 @@ Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture]
 * Xiao Dong, Lei Liu, **Guangli Li**, Jiansong Li, Peng Zhao, Xueying Wang, Xiaobing Feng. Exploiting the input sparsity to accelerate deep neural networks. **24th Symposium on Principles and Practice of Parallel Programming (PPoPP)**, 2019: 401-402.
 * Xiao Dong, Lei Liu, Peng Zhao, **Guangli Li**, Jiansong Li, Xueying Wang, Xiaobing Feng. Acorns: a framework for accelerating deep neural networks with input sparsity. **28th International Conference on Parallel Architectures and Compilation Techniques (PACT)**, 2019: 178-191.
 * **Guangli Li**, Lei Liu, Xueying Wang, Xiao Dong, Peng Zhao, Xiaobing Feng. Auto-tuning neural network quantization framework for collaborative inference between the cloud and edge. **27th International Conference on Artificial Neural Networks (ICANN)**, 2018: 402-411.
-* Xiao Dong, Lei Liu, **Guangli Li**, Peng Zhao, Xiaobing Feng. Fast CNN pruning via redundancy-aware training. **27th International Conference on Artificial Neural Networks (ICANN)**, 2018: 3-13.
-* Xueying Wang, Lei Liu, **Guangli Li**, Xiao Dong, Peng Zhao, Xiaobing Feng. Background subtraction on depth videos with convolutional neural networks. **The 2018 International Joint Conference on Neural Networks (IJCNN)**, 2018: 2961-2967.
 
 ## Professinal Activities
 * Reviewer: IEEE Access, AIAI 2019, ICANN 2018 
