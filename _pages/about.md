@@ -11,7 +11,7 @@ redirect_from:
 Guangli Li is a Ph.D. student at [State Key Laboratory of Computer Architecture][5], [Institute of Computing Technology of the Chinese Academy of Sciences][4]. His research interests include Programming Systems and Deep Learning.
 
 ## News  
-**Oct. 2020**: *LoWino: Towards Efficient Low-Precision Winograd Convolutions on Modern CPUs* is accepted by [ICPP 2021][104].  
+**Jun. 2021**: *LoWino: Towards Efficient Low-Precision Winograd Convolutions on Modern CPUs* is accepted by [ICPP 2021][104].  
 **Oct. 2020**: *Unleashing the low-precision computation potential of Tensor Cores on GPUs* is accepted by [CGO 2021][103].  
 
 ## Education
